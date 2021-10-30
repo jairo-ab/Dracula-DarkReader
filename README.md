@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/darkReader](https://draculatheme.com/darkReader).
+All instructions can be found at [draculatheme/README.md](https://github.com/jairo-ab/Dracula-DarkReader/blob/main/INSTALL.md).
 
 ## Team
 
